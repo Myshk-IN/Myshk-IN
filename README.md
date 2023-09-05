@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Myshk-IN
 - 👀 I’m interested in  ¯\\_(ツ)_/¯
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on  ¯\\_(ツ)_/¯
 - 📫 How to reach me  ¯\\_(ツ)_/¯
 
