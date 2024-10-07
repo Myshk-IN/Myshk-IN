@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Myshk-IN
-- 👀 I’m interested in  ¯\\_(ツ)_/¯
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on  ¯\\_(ツ)_/¯
-- 📫 How to reach me  ¯\\_(ツ)_/¯
+- 👀 I’m interested in learning anything and everything about technologies
+- 🌱 I’m currently learning .Net and Rust
+- 📫 How to reach me: denis.olechnovic@mif.stud.vu.lt
 
 <!---
 Myshk-IN/Myshk-IN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
