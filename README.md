@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Myshk-IN
 - 👀 I’m interested in learning anything and everything about technologies
-- 🌱 I’m currently learning .Net and Rust
+- 🌱 I’m currently learning .NET and Rust
 - 📫 How to reach me: denis.olechnovic@mif.stud.vu.lt
 
 <!---
